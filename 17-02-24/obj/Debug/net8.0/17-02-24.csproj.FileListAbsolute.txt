@@ -1,0 +1,14 @@
+C:\Users\renan\Documents\Programando\17-02-24\bin\Debug\net8.0\17-02-24.exe
+C:\Users\renan\Documents\Programando\17-02-24\bin\Debug\net8.0\17-02-24.deps.json
+C:\Users\renan\Documents\Programando\17-02-24\bin\Debug\net8.0\17-02-24.runtimeconfig.json
+C:\Users\renan\Documents\Programando\17-02-24\bin\Debug\net8.0\17-02-24.dll
+C:\Users\renan\Documents\Programando\17-02-24\bin\Debug\net8.0\17-02-24.pdb
+C:\Users\renan\Documents\Programando\17-02-24\obj\Debug\net8.0\17-02-24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Documents\Programando\17-02-24\obj\Debug\net8.0\17-02-24.AssemblyInfoInputs.cache
+C:\Users\renan\Documents\Programando\17-02-24\obj\Debug\net8.0\17-02-24.AssemblyInfo.cs
+C:\Users\renan\Documents\Programando\17-02-24\obj\Debug\net8.0\17-02-24.csproj.CoreCompileInputs.cache
+C:\Users\renan\Documents\Programando\17-02-24\obj\Debug\net8.0\17-02-24.dll
+C:\Users\renan\Documents\Programando\17-02-24\obj\Debug\net8.0\refint\17-02-24.dll
+C:\Users\renan\Documents\Programando\17-02-24\obj\Debug\net8.0\17-02-24.pdb
+C:\Users\renan\Documents\Programando\17-02-24\obj\Debug\net8.0\17-02-24.genruntimeconfig.cache
+C:\Users\renan\Documents\Programando\17-02-24\obj\Debug\net8.0\ref\17-02-24.dll
